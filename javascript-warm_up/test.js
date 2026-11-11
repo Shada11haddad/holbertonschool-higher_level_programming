@@ -1,8 +1,12 @@
 #!/usr/bin/node
 
+let row = '';
+row = row + 'X';
+row = row + 'X';
+row = row + 'X';
+console.log(row);
 
-console.log(parseInt('89'));
-console.log(parseInt('89.89'));
-console.log(parseInt('School'));
-console.log(parseInt(undefined));
-console.log(NaN === NaN);
+
+
+
+
